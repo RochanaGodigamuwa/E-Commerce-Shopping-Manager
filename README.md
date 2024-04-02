@@ -1,3 +1,5 @@
 Westminster Shopping Manager. (Java,JavaSwing)
 
-An online shopping system enabling managers to add products for sale and providing users with a JavaSwing-based graphical interface for browsing and purchasing items added by managers.
+This is a E-Commerce Platform for Managers and Users.
+An online shopping system enabling managers to add products for sale into the Shop from the Stock  and providing Users with a  graphical user interface for browsing and purchasing these items added by managers.
+  *The GUI for the Users is made using JavaSwing.
